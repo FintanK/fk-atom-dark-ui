@@ -4,4 +4,4 @@
 
 A custom theme for Atom based on the original dark UI theme. I will be tweaking this every now and then.
 
-There is also a vast array of other themes available at https://atom.io/themes
+There are also a vast array of other themes available at https://atom.io/themes
