@@ -1,0 +1,11 @@
+{
+  "name": "fk-atom-dark-ui",
+  "theme": "ui",
+  "version": "0.51.1",
+  "description": "A customised theme by Fintan Kearney based on the dark ui theme for Atom.",
+  "license": "MIT",
+  "repository": "",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
